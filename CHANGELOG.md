@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v2.0.2...v2.1.0) (2022-09-26)
+
+
+### Features
+
+* **route:** add new route ([5563f26](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/5563f262476a769e8dd004521d601ed035d6889a))
+
 ## [2.0.2](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v2.0.1...v2.0.2) (2022-09-26)
 
 
