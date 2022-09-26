@@ -20,7 +20,7 @@
         "package-log.json",
         "CHANGELOG.md"
       ],
-      "message": "chore(release): Published ${nextRelease.version} (${nextRelease.gitTag}) [skip ci]\n\n${nextRelease.notes}"
+      "message": "chore(release): Published ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
     },
     "@semantic-release/github"
   ]
