@@ -7,11 +7,18 @@
   "license": "MIT",
   "scripts": {
     "commit": "cz",
-    "release": "semantic-release"
+    "release": "semantic-release",
+    "prepare": "husky install"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^6.0.1",
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/release-notes-generator": "^10.0.3",
     "commitizen": "^4.2.5",
     "cz-conventional-changelog": "3.3.0",
+    "husky": "^8.0.1",
+    "lint-staged": "^13.0.3",
     "semantic-release": "^19.0.5"
   },
   "config": {
