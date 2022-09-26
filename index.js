@@ -12,6 +12,7 @@ app.get("/home", (res, res) => {
 });
 
 app.get("/posts", (res, res) => {
+  // whatever bug fix
   return res.status(200).json({ route: "posts" });
 });
 
