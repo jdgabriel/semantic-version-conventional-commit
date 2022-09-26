@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v1.1.0...v1.2.0) (2022-09-26)
+
+
+### Bug Fixes
+
+* **routes:** add 'return' in all routes ([760cbdf](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/760cbdf5498c2bb5a9e7f9a7adf862851048088e))
+
+
+### Features
+
+* **rotues:** renames all routes ([43717f2](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/43717f2cba095a189815d3b3be276d7a40ebc277))
+* **routes:** new route by issue ([7df651a](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/7df651a239aee48acda24389e5a09ed7612a8ea7)), closes [#1](https://github.com/jdgabriel/semantic-version-conventional-commit/issues/1)
+
 # [1.1.0](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v1.0.0...v1.1.0) (2022-09-26)
 
 
