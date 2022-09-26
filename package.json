@@ -1,6 +1,6 @@
 {
   "name": "semantic-version-conventional-commit",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "main": "index.js",
   "repository": "https://github.com/jdgabriel/semantic-version-conventional-commit.git",
   "author": "Gabriel Duarte <jds.gabrielduarte@gmail.com> (https://github.com/jdgabriel)",

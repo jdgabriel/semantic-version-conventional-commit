@@ -1,3 +1,11 @@
+## [2.2.1](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v2.2.0...v2.2.1) (2022-09-26)
+
+
+### Bug Fixes
+
+* **releaserc:** change message publihed by semantic-release-bot ([35a2db4](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/35a2db4a66cb7fdc546b062c8c838a0565dd920b))
+* **release:** update message published at new release available ([e006359](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/e006359bee3445e383f494f1a7b17c7087d98a35))
+
 # [2.2.0](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v2.1.0...v2.2.0) (2022-09-26)
 
 
