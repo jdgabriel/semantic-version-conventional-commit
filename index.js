@@ -8,6 +8,7 @@ app.get("/", (req, res) => {
 });
 
 app.get("/home", (res, res) => {
+  // whatever bug fix
   return res.status(200).json({ route: "home" });
 });
 
