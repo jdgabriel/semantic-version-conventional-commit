@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v2.0.1...v2.0.2) (2022-09-26)
+
+
+### Bug Fixes
+
+* **version:** version again ([5771823](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/5771823e246f954f925f0fc03173e2754406f66e))
+
 ## [2.0.1](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v2.0.0...v2.0.1) (2022-09-26)
 
 
