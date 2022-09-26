@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v2.1.0...v2.2.0) (2022-09-26)
+
+
+### Features
+
+* **semantic-release:** add actions names in workflow ([42f87a1](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/42f87a1b89ccf1d9d94ac7a7d9fb17d3dc5e443d))
+
 # [2.1.0](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v2.0.2...v2.1.0) (2022-09-26)
 
 
