@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v1.2.0...v1.2.1) (2022-09-26)
+
+
+### Bug Fixes
+
+* **bug:** bug in route ([3d5919a](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/3d5919a1709dc9e5a54a0cb2c074fdd69e229f0e))
+
 # [1.2.0](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v1.1.0...v1.2.0) (2022-09-26)
 
 
