@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v1.2.1...v2.0.0) (2022-09-26)
+
+
+### chore
+
+* **code:** new codes ([9c9020a](https://github.com/jdgabriel/semantic-version-conventional-commit/commit/9c9020ab373ac46cdd00c040c5c606238189f326))
+
+
+### BREAKING CHANGES
+
+* **code:** Updates where
+
 ## [1.2.1](https://github.com/jdgabriel/semantic-version-conventional-commit/compare/v1.2.0...v1.2.1) (2022-09-26)
 
 
