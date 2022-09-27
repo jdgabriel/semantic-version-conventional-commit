@@ -1,7 +1,7 @@
 ## Install dependencies
 
 ```bash
-yarn add semantic-release @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/git @semantic-release/github @semantic-release/release-notes-generator commitizen -D
+yarn add semantic-release semantic-release-monorepo @semantic-release/changelog @semantic-release/commit-analyzer @semantic-release/git @semantic-release/github @semantic-release/release-notes-generator commitizen -D
 ```
 
 ## Start commitzen
